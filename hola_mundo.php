@@ -14,6 +14,7 @@ echo "hola mundo 2";
 <body>
 <h1>hola mundo</h1>
 <p>este es un parrafo</p>
+<p>este es un parrafo</p>
 
 </body>
 </html>
